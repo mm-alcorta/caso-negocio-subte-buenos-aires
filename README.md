@@ -111,7 +111,15 @@ A partir de los resultados obtenidos se propusieron las siguientes recomendacion
 * Continuar utilizando herramientas de análisis y visualización de datos para apoyar la planificación y la toma de decisiones basadas en evidencia.
 
 ---
+# Datos
 
+Los datos utilizados en este proyecto provienen del Portal de Datos Abiertos de la Ciudad Autónoma de Buenos Aires.
+
+Por restricciones de tamaño de GitHub, los datasets originales y los datasets procesados no se incluyen en este repositorio.
+
+Para reproducir el análisis, descargue los datos desde la fuente oficial y ejecute el notebook correspondiente.
+
+---
 # Documentación
 
 El repositorio incluye un informe técnico donde se describen en detalle:
